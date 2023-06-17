@@ -1,0 +1,121 @@
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 30px;
+}
+.top-container{
+    background-color: rgb(194, 250, 231);
+    width: 100%;
+    height:1000px;
+}
+h1 {
+    display: block;
+    color: #66bfbf;
+    font-size: 5.625rem;
+    font-family: "Sacramento", "cursive";
+    text-align: center;
+    padding-top: 200px;
+}
+h2{
+    text-align: center;
+    color:#509292;
+}
+.cloud3{
+    position: absolute;
+    right:200px ;
+    bottom:-10px;
+}
+.mountain{
+    height:30em ;
+    width: 100%;
+}
+.myimg{
+    height: 180px;
+    width: 180px;
+    border-radius: 200px;
+    margin-top: 90px;
+}
+ .hello{
+    margin-top: 33px;
+    margin-bottom: 33px;
+ }
+ .parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 40px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+.chilli-img{
+    height: 130px;
+}
+.cat{
+    height: 190px;
+
+}
+h3 {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+p {
+    line-height: 2;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.skills{
+    margin-top: 80px;
+}
+.contact-me{
+    margin-top: 80px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+a {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.typing{
+    margin-top: 23px;
+}
+.contact-me>.h3{
+    text-align: center;
+}
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+.pro {
+    text-decoration: underline;
+}
